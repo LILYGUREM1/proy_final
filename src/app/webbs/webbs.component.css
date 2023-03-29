@@ -1,0 +1,26 @@
+a{
+    color:white;
+    font-size: 30px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    background-color: white;
+}
+.hero{
+background-color: black;
+}
+
+.columna{
+    background-color: gray;
+}
+.seccion-texto{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+img{
+    width: 300px;
+}
